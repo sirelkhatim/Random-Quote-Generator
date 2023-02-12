@@ -17,7 +17,8 @@ const quotes = [{'quote' : "If you look at what you have in life, you’ll alway
 {'quote' : "Dreams are the touchstones of our characters.",
 'source' : "Henry David Thoreau"},
 {'quote' : "When writing a novel a writer should create living people; people not characters. A character is a caricature.",
-'source':  "Ernest Hemingway", 'citation':"Death in the afternoon", 'year': '1932','tag':'Fiction'}]
+'source':  "Ernest Hemingway", 'citation':"Death in the afternoon", 'year': '1932','tag':'Fiction'},
+{'quote': "Be yourself; everyone else is already taken.", 'source': 'Oscar Wilde' }]
 
 
 // Test that the quotes has the right content
